@@ -7,7 +7,7 @@ All figures (R1-R4) are contained as `ICML2026_Rebuttal_Figures.pdf`
 
 ### Tables
 
-The `Tables` directory contains CSV files with significance test results for the significance tests discussed in our response to Reviewer 9Ggd for APA and Splicing tasks. These files can be opened with spreadsheet software like Excel or Google Sheets for easy viewing.
+The `Tables` directory contains CSV files with significance test results for the significance tests discussed in our response to Reviewer 9Ggd for APA and Splicing tasks.
 
 #### APA 
 
