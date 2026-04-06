@@ -2,7 +2,7 @@ This folder holds supplementary figures and tables for the rebuttal to "GlintID:
 
 ### Figures
 
-All figures (R1-R6) are contained as `ICML2026_Rebuttal_Figs.pdf`. New figures (R5, R6), showing track prediction examples for transcription start site usage from Dudnyk et al. (2024) are also separately included in `DudnykTrackOnly_RebuttalFigs.pdf`.
+All figures (R1-R6) are contained as `ICML2026_GlintID_Rebuttal_Figures.pdf`. New figures (R5, R6), showing track prediction examples for transcription start site usage from Dudnyk et al. (2024) are also separately included in `DudnykTrackOnly_Rebuttal_Figures.pdf`.
 
 
 ### Tables
